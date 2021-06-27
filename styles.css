@@ -17,9 +17,9 @@ h5 {
   color: #ffffff;
 }
 
-h1 {
+h1,
+h5 {
   font-size: 45px;
-  margin-top: 55px;
 }
 
 h2 {
