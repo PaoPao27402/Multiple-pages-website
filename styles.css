@@ -42,6 +42,9 @@ a {
   text-transform: capitalize; 
   }
 
-  a.email{
-    text-align: center;
+  .email {
+  display: flex;
+  justify-content: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   }
