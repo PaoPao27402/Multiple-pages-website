@@ -53,10 +53,10 @@ a {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   }
 
-  a.btn.btn-outline-info {
-  background: #5E8B7E;
-  box-shadow:  20px 20px 60px #50766b,
-             -20px -20px 60px #6ca091;
+  .btn.btn-outline-info {
+    background: #5E8B7E;
+    box-shadow:  20px 20px 41px #50766b,
+                 -20px -20px 41px #6ca091;
 }
 
   p{
