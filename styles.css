@@ -53,6 +53,10 @@ a {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   }
 
+  .btn-outline-info:hover{
+   color:white;
+  }
+
   p{
     text-align: center;
     color: white;
