@@ -44,9 +44,6 @@ a {
   padding: 20px 15px;
   text-decoration: none;
   text-transform: capitalize;
-  background: #5E8B7E;
-  box-shadow:  20px 20px 41px #50766b,
-                 -20px -20px 41px #6ca091;
   }
 
   .email {
