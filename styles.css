@@ -43,7 +43,10 @@ a {
   border-radius: 4px;
   padding: 20px 15px;
   text-decoration: none;
-  text-transform: capitalize; 
+  text-transform: capitalize;
+  background: #5E8B7E;
+  box-shadow:  20px 20px 41px #50766b,
+                 -20px -20px 41px #6ca091;
   }
 
   .email {
@@ -52,12 +55,6 @@ a {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   }
-
-  .btn.btn-outline-info {
-    background: #5E8B7E;
-    box-shadow:  20px 20px 41px #50766b,
-                 -20px -20px 41px #6ca091;
-}
 
   p{
     text-align: center;
