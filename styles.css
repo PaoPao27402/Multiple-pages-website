@@ -75,7 +75,9 @@ a {
     }
 
     a.btn.btn-outline-info{
-      margin: 0 auto;
+      display: block;
+      text-align: center;
+      margin: 0 30px;
     }
 
   }
