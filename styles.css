@@ -97,4 +97,9 @@ a {
       margin: 0 35px;
     }
 
+    .img-fluid{
+      display: block;
+      text-align: center;
+    }
+
   }
