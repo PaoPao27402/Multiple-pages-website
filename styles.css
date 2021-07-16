@@ -62,6 +62,11 @@ a {
     border-radius: 200px;
   }
 
+  .mt-5 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
   p{
     text-align: center;
     color: white;
