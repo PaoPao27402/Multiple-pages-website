@@ -64,7 +64,7 @@ a {
 
   .mt-5 {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     color: white;
     font-size: 35px;
 }
